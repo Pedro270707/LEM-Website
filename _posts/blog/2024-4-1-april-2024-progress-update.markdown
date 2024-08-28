@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April 2024 Progresss update"
+title: "April 2024 Progress update"
 image: /assets/blog/april-2024-progress-update.png
 permalink: /blog/april-2024-progress-update
 type: blog
@@ -8,7 +8,7 @@ preview-text: |
   Welcome! You can probably tell that we've made some pretty big changes to the LEM project. No time to waste, lets get started!
 main-text: | 
   <script>
-    var overide = true;
+    var override = true;
     var aprilfoolsModeCheck = true;
   </script>
   Welcome! You can probably tell that we've made some pretty big changes to the LEM project. No time to waste, lets get started!

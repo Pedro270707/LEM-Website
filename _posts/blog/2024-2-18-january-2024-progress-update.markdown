@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "January 2024 Progresss update"
+title: "January 2024 Progress update"
 image: /assets/blog/january-2024-progress-update.png
 permalink: /blog/january-2024-progress-update
 type: blog

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 2023 Progresss update"
+title: "August 2023 Progress update"
 image: /assets/blog/july-2023-progress-update/thumb.png
 permalink: /blog/august-2023-progress-update
 type: blog

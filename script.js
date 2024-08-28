@@ -19,20 +19,20 @@ function triggerPanoramaMovement() {
 }
 
 // Seasonal events
-var overide;
+var override;
 var d = new Date();
 var curr_month = d.getMonth() + 1;
 var curr_day = d.getDate();
 var halloweenModeCheck;
 var festiveModeCheck;
 var aprilfoolsModeCheck;
-if (curr_month == 10 && overide != true) { // halloween
+if (curr_month == 10 && override != true) { // halloween
 	halloweenModeCheck = true;
 }
-if (curr_month == 12 && overide != true) { // festive
+if (curr_month == 12 && override != true) { // festive
 	festiveModeCheck = true;
 }
-if (curr_month == 4 && curr_day == 1 && overide != true) { // april fools
+if (curr_month == 4 && curr_day == 1 && override != true) { // april fools
     aprilfoolsModeCheck = true;
 }
 
