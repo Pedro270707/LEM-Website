@@ -1,6 +1,6 @@
 ---
 layout: faq
-title: "Will bedrock ever be supported?"
+title: "Will Bedrock ever be supported?"
 image: /assets/faq/bedrock.png
 permalink: /faq/bedrock
 type: faq
