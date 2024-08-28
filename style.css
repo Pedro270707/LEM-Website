@@ -76,7 +76,7 @@
 	  border-image: url('/assets/guimenu.png');
 	  border-image-slice: 128 128 fill;
 	  border-image-width: 64px;
-	  margin-top: 10px;
+	  margin-bottom: 10px;
   }
   
   .logo {
@@ -220,6 +220,7 @@
   
   .container {
 	  padding-top: 10px;
+	  padding-bottom: 10px;
 	  text-align: center;
 	  margin-left: auto;
 	  margin-right: auto;
